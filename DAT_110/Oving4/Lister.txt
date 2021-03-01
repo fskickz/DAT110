@@ -1,0 +1,41 @@
+Normal liste 
+--------------------
+gmail.com : 16 
+apple.com : 5 
+melbourneit.com.au : 1 
+facebook.com : 1 
+apache.org : 2 
+cloudera.com : 1 
+yahoo.com : 1 
+web.de : 1 
+announcemedia.com : 1 
+real.com : 2 
+rocketfuel.com : 1 
+
+ Alfabetisk liste: 
+--------------------
+announcemedia.com : 1 
+apache.org : 2 
+apple.com : 5 
+cloudera.com : 1 
+facebook.com : 1 
+gmail.com : 16 
+melbourneit.com.au : 1 
+real.com : 2 
+rocketfuel.com : 1 
+web.de : 1 
+yahoo.com : 1 
+
+ Antall 
+--------------------
+gmail.com : 16 
+apple.com : 5 
+apache.org : 2 
+real.com : 2 
+melbourneit.com.au : 1 
+facebook.com : 1 
+cloudera.com : 1 
+yahoo.com : 1 
+web.de : 1 
+announcemedia.com : 1 
+rocketfuel.com : 1 
